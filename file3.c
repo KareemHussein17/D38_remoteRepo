@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("AMIT_D38");
+	printf("D38");
 	return 0;
 }
